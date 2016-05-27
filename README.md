@@ -1,3 +1,3 @@
 # hello-world
-Hi peope.
+Hi people.
 I'm studying GitHub now.
